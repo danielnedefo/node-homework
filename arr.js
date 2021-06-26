@@ -1,0 +1,1 @@
+const myArr = require("./index")
