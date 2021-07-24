@@ -11,5 +11,5 @@ program.parse(process.argv)
 const options = program.opts()
 console.log(options)
 if (options.sum) {
-  console.log(options.firstLetter + options.secondLetter)
+  // console.log(options.firstLetter + options.secondLetter)
 }
